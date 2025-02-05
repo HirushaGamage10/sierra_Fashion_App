@@ -1,0 +1,49 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+android/.gradle/
+android/app/google-services.json
+android/key.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/.dart_tool/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.iml
+
+# Miscellaneous
+*.DS_Store
+*.log
+*.tmp
+*.swp
+*.lock
+*.bak
+*.pid
+*.seed
+*.crt
+*.pem
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Linux
+linux/flutter/
+linux/build/
+
+# macOS
+macos/Flutter/
+macos/build/
+
+# Windows
+windows/flutter/
+windows/build/
